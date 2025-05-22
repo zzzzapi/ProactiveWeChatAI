@@ -19,8 +19,8 @@ AI微信主动聊天机器人是一个Python开发的微信聊天助手，可以
 
 1. 克隆项目到本地
    ```bash
-   git clone https://github.com/zzzzapi/ProactiveWeChatAI.git
-   cd ProactiveWeChatAI
+   git clone https://github.com/zzzzapi/WeChat-AI-Bot.git
+   cd WeChat-AI-Bot
    ```
 
 2. 安装依赖
